@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Task based asynchronous programming in c sharp\Task based asynchronous programming in c sharp\obj\Debug\Task based asynchronous programming in c sharp.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Task based asynchronous programming in c sharp\Task based asynchronous programming in c sharp\obj\Debug\Task based asynchronous programming in c sharp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Task based asynchronous programming in c sharp\Task based asynchronous programming in c sharp\bin\Debug\Task based asynchronous programming in c sharp.exe.config
+C:\Users\lenovo\source\repos\Task based asynchronous programming in c sharp\Task based asynchronous programming in c sharp\bin\Debug\Task based asynchronous programming in c sharp.exe
+C:\Users\lenovo\source\repos\Task based asynchronous programming in c sharp\Task based asynchronous programming in c sharp\bin\Debug\Task based asynchronous programming in c sharp.pdb
+C:\Users\lenovo\source\repos\Task based asynchronous programming in c sharp\Task based asynchronous programming in c sharp\obj\Debug\Task based asynchronous programming in c sharp.exe
+C:\Users\lenovo\source\repos\Task based asynchronous programming in c sharp\Task based asynchronous programming in c sharp\obj\Debug\Task based asynchronous programming in c sharp.pdb
